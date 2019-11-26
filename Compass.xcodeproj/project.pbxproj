@@ -61,11 +61,11 @@
 				36AD0D8A22F5DAD1006BA7E2 /* AppDelegate.swift */,
 				36AD0D8C22F5DAD1006BA7E2 /* SceneDelegate.swift */,
 				36AD0D8E22F5DAD1006BA7E2 /* ContentView.swift */,
+				36613009234A3B0D002225D2 /* CompassHeading.swift */,
 				36AD0D9022F5DAD2006BA7E2 /* Assets.xcassets */,
 				36AD0D9522F5DAD2006BA7E2 /* LaunchScreen.storyboard */,
 				36AD0D9822F5DAD2006BA7E2 /* Info.plist */,
 				36AD0D9222F5DAD2006BA7E2 /* Preview Content */,
-				36613009234A3B0D002225D2 /* CompassHeading.swift */,
 			);
 			path = Compass;
 			sourceTree = "<group>";
@@ -297,7 +297,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nayem.compass;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -318,7 +318,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.nayem.compass;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
